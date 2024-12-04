@@ -1,0 +1,15 @@
+{
+  "CONSTANTS": {
+    "GREETING": "Hello, World!",
+    "PI": 3.14
+  },
+  "settings": {
+    "welcome_message": "^GREETING",
+    "error_message": "^GREETING",
+    "circle": {
+      "radius": 5,
+      "pi_value": "^PI"
+    },
+    "another_pi_usage": "^PI"
+  }
+}
