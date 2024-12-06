@@ -75,7 +75,7 @@ sample2.json - JSON файл для проверки выполнения оши
 
 Содержимое файла sample1.json:
 
-![Image alt1](https://github.com/BEZBIG/Configuration-Management.Homework-3/blob/master/pic/1.png)
+![Image alt1](https://github.com/BEZBIG/Configuration-Management.Homework-3/blob/master/pic/12.png)
 
 Работа с инструментом командной строки для преобразования текста из JSON файла, используя sample1.json:
 
